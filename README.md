@@ -18,7 +18,7 @@ WinX is a modern, beautifully designed shortcut menu inspired by the Windows `Wi
    ```bash
    chmod +x install.sh
    ./install.sh
-### Step 1: Install the win + x shortcut
+### Step 2: Install the win + x shortcut
    ```bash
 chmod +x shortkey.sh
    ./install.sh
